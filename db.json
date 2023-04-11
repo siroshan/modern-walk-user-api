@@ -1,0 +1,27 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "johndoe1@gmail.com",
+      "password": "Abc@12345"
+    },
+    {
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "johndoe@gmail.com",
+      "password": "Abc@12345",
+      "cpassword": "Abc@12345",
+      "id": 3
+    },
+    {
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "johndoe@gmail.com",
+      "password": "Abc@123456",
+      "cpassword": "Abc@123456",
+      "id": 4
+    }
+  ]
+}
